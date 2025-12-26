@@ -9,6 +9,7 @@ This project analyzes sales data using Microsoft Excel.
 - Total Sales KPI
 - Total Profit KPI
 - Total Quantity KPI
+- Sum of sales
 - Sales by State
 - Sales by Segment
 - Profit by Category
