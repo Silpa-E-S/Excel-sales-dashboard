@@ -23,4 +23,3 @@ This project analyzes sales data using Microsoft Excel.
 ## Author
 Silpa
  
--   
