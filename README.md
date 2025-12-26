@@ -22,4 +22,6 @@ This project analyzes sales data using Microsoft Excel.
 - England generates the highest sales.
 ## Author
 Silpa
+## Dashboard Preview
+![Dashboard](Dashboard.png)
  
